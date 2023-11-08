@@ -1,0 +1,7 @@
+C:\Users\Phuc\Downloads\e-medicine-main\obj\Debug\net6.0\EMedicineBE.csproj.AssemblyReference.cache
+C:\Users\Phuc\Downloads\e-medicine-main\obj\Debug\net6.0\EMedicineBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phuc\Downloads\e-medicine-main\obj\Debug\net6.0\EMedicineBE.AssemblyInfoInputs.cache
+C:\Users\Phuc\Downloads\e-medicine-main\obj\Debug\net6.0\EMedicineBE.AssemblyInfo.cs
+C:\Users\Phuc\Downloads\e-medicine-main\obj\Debug\net6.0\EMedicineBE.csproj.CoreCompileInputs.cache
+C:\Users\Phuc\Downloads\e-medicine-main\obj\Debug\net6.0\EMedicineBE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Phuc\Downloads\e-medicine-main\obj\Debug\net6.0\EMedicineBE.MvcApplicationPartsAssemblyInfo.cache
